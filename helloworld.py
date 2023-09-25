@@ -1,1 +1,2 @@
-;this is a comment
+# This file will print Hello, world!
+Print (‘Hello, world!’)
